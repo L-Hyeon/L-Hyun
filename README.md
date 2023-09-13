@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 
 
 <!--
 **L-Hyun/L-Hyun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+👋 Hi there, I'm FE Developer using <a href="https://react.dev/" target="_blank"><img src="https://img.shields.io/badge/React-#61DAFB?style=flat&logo=React&logoColor=#ffffff"/></a>, <a href="https://svelte.dev/" target="_blank"><img src="https://img.shields.io/badge/Svelte-#FF3E00?style=flat&logo=Svelte&logoColor=#ffffff"/></a>
+Sometimes I develop mobile app with <a href="https://flutter.dev/" target="_blank"><img src="https://img.shields.io/badge/Flutter-#02569B?style=flat&logo=Flutter&logoColor=#ffffff"/></a> or <a href="https://reactnative.dev/" target="_blank"><img src="https://img.shields.io/badge/ReactNative-#FF3E00?style=flat&logo=Svelte&logoColor=#ffffff"/></a> but I prefer Web.👍
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=L-Hyun&show_icons=true&theme=radical)
