@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <br />
 
 👋 Hi there, I'm FE Developer using <a href="https://react.dev/" target="_blank"><img src="https://img.shields.io/badge/React-61dafb?style=flat-square&logo=React&logoColor=white"/></a>, <a href="https://svelte.dev/" target="_blank"><img src="https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=Svelte.js&logoColor=white"/></a>
-Sometimes I develop mobile app with <a href="https://flutter.dev/" target="_blank"><img src="https://img.shields.io/badge/Flutter-#02569B?style=flat&logo=Flutter&logoColor=#ffffff"/></a> or <a href="https://reactnative.dev/" target="_blank"><img src="https://img.shields.io/badge/ReactNative-#FF3E00?style=flat&logo=Svelte&logoColor=#ffffff"/></a> but I prefer Web.👍
+Sometimes I develop mobile app with <a href="https://flutter.dev/" target="_blank"><img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/></a> or <a href="https://reactnative.dev/" target="_blank"><img src="https://img.shields.io/badge/ReactNative-61dafb?style=flat-square&logo=React&logoColor=white"/></a> but I prefer Web.👍
 <br />
 
 <p align="center"><b>🛠 Tech</b></p>
@@ -48,7 +48,7 @@ Sometimes I develop mobile app with <a href="https://flutter.dev/" target="_blan
 
 <p align="center"><b>📫 Blog</b></p>
 <p align="center">
-  <a href="https://l-hyun.github.io/"><img src="https://img.shields.io/badge/Github-222222?style=flat-square&logo=Git&logoColor=white/></a>&nbsp
+  <a href="https://l-hyun.github.io/"><img src="https://img.shields.io/badge/Github-222222?style=flat-square&logo=Git&logoColor=white"/></a>&nbsp
 </p>
 <br />
 
@@ -65,3 +65,6 @@ Sometimes I develop mobile app with <a href="https://flutter.dev/" target="_blan
     </tr>
   </table>
 </p>
+<br/>
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=l_hyun)](https://solved.ac/l_hyun/)
