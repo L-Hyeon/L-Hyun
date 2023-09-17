@@ -66,5 +66,3 @@ Sometimes I develop mobile app with <a href="https://flutter.dev/" target="_blan
   </table>
 </p>
 <br/>
-
-![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=l_hyun)](https://solved.ac/l_hyun/)
