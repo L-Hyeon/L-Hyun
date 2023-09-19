@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 </div>
 <br />
 
-👋 Hi there, I'm FE Developer using <a href="https://react.dev/" target="_blank"><img src="https://img.shields.io/badge/React-61dafb?style=flat-square&logo=React&logoColor=white"/></a>, <a href="https://svelte.dev/" target="_blank"><img src="https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=Svelte.js&logoColor=white"/></a>
+👋 Hi there, I'm FE Developer using <a href="https://react.dev/" target="_blank"><img src="https://img.shields.io/badge/React-61dafb?style=flat-square&logo=React&logoColor=white"/></a>, <a href="https://svelte.dev/" target="_blank"><img src="https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=Svelte.js&logoColor=white"/></a> <br />
 Sometimes I develop mobile app with <a href="https://flutter.dev/" target="_blank"><img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/></a> or <a href="https://reactnative.dev/" target="_blank"><img src="https://img.shields.io/badge/ReactNative-61dafb?style=flat-square&logo=React&logoColor=white"/></a> but I prefer Web.👍
 <br />
 
