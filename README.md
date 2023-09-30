@@ -67,15 +67,3 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/>&nbsp
   </p>
 </div>
-
-<br />
-<br />
-<br />
-
-<div align="center" >
-  <img align="right" style="width:40%" src="https://upload.wikimedia.org/wikipedia/commons/4/49/A_black_image.jpg" />
-  <p align="center"><b>📫 Blog</b></p>
-  <p align="center">
-    
-  </p>
-</div>
