@@ -25,7 +25,11 @@ Here are some ideas to get you started:
 
   <br />
   <br />
-  <p align="center"><b>Lee Seok-Hyeon</b></p>
+  <p align="center">
+    <b>Lee Seok-Hyeon</b>
+    <a href="https://l-hyun.github.io/"><img src="https://img.shields.io/badge/Github-222222?style=flat-square&logo=Git&logoColor=white"/></a>
+    <a href="https://stirring-centaur-36d.notion.site/ffa2e8aa45954f5ca9a13bbd22593c61"><img src="https://img.shields.io/badge/Portfolio-222222?style=flat-square&logo=Notion&logoColor=white"/></a>
+  </p>
   <p align='center'>
     👋 Hi there, I'm FE Developer using <a href="https://react.dev/" target="_blank"><img src="https://img.shields.io/badge/React-61dafb?style=flat-square&logo=React&logoColor=white"/></a>, <a href="https://svelte.dev/" target="_blank"><img src="https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=Svelte.js&logoColor=white"/></a> <br />
     Sometimes I develop mobile app with <a href="https://flutter.dev/" target="_blank"><img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/></a> or <a href="https://reactnative.dev/" target="_blank"><img src="https://img.shields.io/badge/ReactNative-61dafb?style=flat-square&logo=React&logoColor=white"/></a> <br />
@@ -52,16 +56,26 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/>&nbsp
     <img src="https://img.shields.io/badge/Typescript-3178c6?style=flat-square&logo=Typescript&logoColor=white"/>&nbsp
     <img src="https://img.shields.io/badge/React-61dafb?style=flat-square&logo=React&logoColor=white"/>&nbsp
-    <img src="https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=Svelte.js&logoColor=white"/>&nbsp
+    <img src="https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=Svelte&logoColor=white"/>&nbsp
     <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=Webpack&logoColor=white"/>&nbsp
+    <img src="https://img.shields.io/badge/Vite-9d5cfb?style=flat-square&logo=vite&logoColor=white" />&nbsp
+    <br />
     <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>&nbsp
     <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>&nbsp
     <br />
     <img src="https://img.shields.io/badge/ReactNative-61DAFB?style=flat-square&logo=React&logoColor=white"/>&nbsp
     <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/>&nbsp
   </p>
+</div>
+
+<br />
+<br />
+<br />
+
+<div align="center" >
+  <img align="right" style="width:40%" src="https://upload.wikimedia.org/wikipedia/commons/4/49/A_black_image.jpg" />
   <p align="center"><b>📫 Blog</b></p>
   <p align="center">
-    <a href="https://l-hyun.github.io/"><img src="https://img.shields.io/badge/Github-222222?style=flat-square&logo=Git&logoColor=white"/></a>&nbsp
+    
   </p>
 </div>
