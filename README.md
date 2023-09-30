@@ -20,10 +20,12 @@ Here are some ideas to get you started:
 </div>
 <br />
 
+<br />
 👋 Hi there, I'm FE Developer using <a href="https://react.dev/" target="_blank"><img src="https://img.shields.io/badge/React-61dafb?style=flat-square&logo=React&logoColor=white"/></a>, <a href="https://svelte.dev/" target="_blank"><img src="https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=Svelte.js&logoColor=white"/></a> <br />
 Sometimes I develop mobile app with <a href="https://flutter.dev/" target="_blank"><img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/></a> or <a href="https://reactnative.dev/" target="_blank"><img src="https://img.shields.io/badge/ReactNative-61dafb?style=flat-square&logo=React&logoColor=white"/></a> but I prefer Web.👍
 <br />
 
+<br />
 <p align="center"><b>🛠 Tech</b></p>
 <p align="center">
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/>&nbsp
@@ -46,6 +48,7 @@ Sometimes I develop mobile app with <a href="https://flutter.dev/" target="_blan
 </p>
 <br />
 
+<br />
 <p align="center"><b>📫 Blog</b></p>
 <p align="center">
   <a href="https://l-hyun.github.io/"><img src="https://img.shields.io/badge/Github-222222?style=flat-square&logo=Git&logoColor=white"/></a>&nbsp
@@ -65,4 +68,8 @@ Sometimes I develop mobile app with <a href="https://flutter.dev/" target="_blan
     </tr>
   </table>
 </p>
-<br/>
+<br />
+
+<br />
+<p align="center"><b>👍 BOJ + Solved.ac</b></p>
+[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=dkh1001)](https://solved.ac/dkh1001)
