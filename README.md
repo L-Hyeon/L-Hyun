@@ -72,5 +72,4 @@ Sometimes I develop mobile app with <a href="https://flutter.dev/" target="_blan
 
 <br />
 <p align="center"><b>👍 BOJ + Solved.ac</b></p>
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=dkh1001)](https://solved.ac/dkh1001)
+[Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=dkh1001)](https://solved.ac/dkh1001)
